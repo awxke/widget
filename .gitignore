@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+config.json
+run.log
+test_icon.py
+start_widget.bat
+screenshots/*.tmp
+.venv/
+venv/
